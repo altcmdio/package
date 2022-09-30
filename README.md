@@ -27,6 +27,5 @@ degit altcmdio/package my-project/packages/my-package
 cd my-project
 code -n .
 
-# `altcmdio/workspace` creates a devcontainer environment
-# run things like `yarn install` from within the devcontainer
+# `altcmdio/workspace` creates a devcontainer environment; run things like `yarn install` from within the devcontainer itself
 ```
